@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Presence Days Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aac491aa48020dd7597d82c638fea68c1ea8a24")]
 [assembly: System.Reflection.AssemblyProductAttribute("Presence Days Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Presence Days Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

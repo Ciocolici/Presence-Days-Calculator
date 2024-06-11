@@ -16,3 +16,4 @@ C:\Users\danie\Documents\GitHub\Presence Days Calculator\obj\Release\net7.0-wind
 C:\Users\danie\Documents\GitHub\Presence Days Calculator\obj\Release\net7.0-windows\Presence Days Calculator.pdb
 C:\Users\danie\Documents\GitHub\Presence Days Calculator\obj\Release\net7.0-windows\Presence Days Calculator.genruntimeconfig.cache
 C:\Users\danie\Documents\GitHub\Presence Days Calculator\obj\Release\net7.0-windows\ref\Presence Days Calculator.dll
+C:\Users\danie\Documents\GitHub\Presence Days Calculator\obj\Release\net7.0-windows\Presence Days Calculator.sourcelink.json
