@@ -1,7 +1,7 @@
 # Presence Days Calculator
 
 This is an application that calculates the number of days required for students in my class to be present. 
-The reason behind this application is that for my class from Lutz und Grub AG for Fachinformatiker, according to the German IHK, it is required that each student be present in person in the classroom for a minimum of 51% of the class days. For the remaining 49% one can either attend in person or take the classes from home.
+The reason behind this application is that for my class from Lutz + Grub GmbH for IT Specialist: Application Developer, according to the German IHK, it is required that each student be present in person in the classroom for a minimum of 51% of the class days. For the remaining 49% one can either attend in person or take the classes from home.
 This application allows the user to write how many days he's attended the classroom in person, for each month, and the application will then calculate how many days he has been present, and how many he still needs to be allowed to take the exams. There's also a save and load function, to make sure the user never loses the information.
 
 *To launch the application, start "Presence Days Calculator.exe" located in "(...)\Still No Guts\bin\Release\net7.0"*
